@@ -1,0 +1,15 @@
+rojo::red
+azul::blue
+verde::green
+rosa::pink
+puño::fist
+pastel::cake
+mar::sea
+de::of
+mora::blueberry
+roca::rock
+morado::purple
+dos::twice
+banco::bank
+blanco::white
+dedo::finger
