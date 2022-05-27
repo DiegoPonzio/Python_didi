@@ -19,3 +19,4 @@ lobo::wolf
 el::the
 come::eat
 libro::book
+queso::chesse
