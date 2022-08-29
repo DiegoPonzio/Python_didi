@@ -1,0 +1,3 @@
+rojo::red::rouge::rot
+azul::blue::bleu::blau
+verde::green::vert::grün
